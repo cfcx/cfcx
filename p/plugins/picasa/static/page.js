@@ -121,7 +121,7 @@ define(function(require, exports) {
 	}
 	return function(imagePath,appStatic){
 		require.async([
-			'https://cdn.jsdelivr.net/gh/kalcaddle/kodbox@master/plugins/picasa/static/picasa/style/style.css',
+			appStatic+'picasa/style/style.css',
 			'https://cdn.jsdelivr.net/gh/kalcaddle/kodbox@master/plugins/picasa/static/picasa/picasa.js'
 		],function(){
 			if(!window.myPicasa){
