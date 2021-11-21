@@ -150,12 +150,12 @@ const method = {
     createArrow(){
         let src = [
             {
-                background: `url('assets/image/source/arrow_small.png') no-repeat center center / cover`,
+                background: `url('https://cdn.jsdelivr.net/gh/cfcx/cfcx@master/p/plugins/simpleClock/static/assets/image/source/arrow_small.png') no-repeat center center / cover`,
                 width: 'calc(100vh * 214 / 1080)',
                 height: 'calc(100vh * 29 / 1080)'
             }, 
             {
-                background: `url('assets/image/source/arrow_big.png') no-repeat center center / cover`,
+                background: `url('https://cdn.jsdelivr.net/gh/cfcx/cfcx@master/p/plugins/simpleClock/static/assets/image/source/arrow_big.png') no-repeat center center / cover`,
                 width: 'calc(100vh * 1322 / 1080)',
                 height: 'calc(100vh * 50 / 1080)'
             }
