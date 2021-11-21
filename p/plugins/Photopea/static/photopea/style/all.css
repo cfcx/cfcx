@@ -921,7 +921,7 @@ input[type="checkbox"]:checked + label:before {  content: "\2713";  }
 	.fontitem .thumb
 	{
 		display:inline-block; width:120px; height:20px;  margin-left:0.5em;
-		background: url(../rsrc/fonts/fonts.png);
+		background: url(https://cdn.jsdelivr.net/gh/cfcx/cfcx@master/p/plugins/Photopea/static/photopea/rsrc/fonts/fonts.png);
 	}
 	
 	.fontitem .star {
