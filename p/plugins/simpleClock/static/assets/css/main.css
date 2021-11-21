@@ -6,19 +6,19 @@
 
 
 @font-face{
-    src: url('../font/RobotoMono-Light.ttf');
+    src: url('https://cdn.jsdelivr.net/gh/cfcx/cfcx@master/p/plugins/simpleClock/static/assets/font/RobotoMono-Light.ttf');
     font-family: RobotoMonoLight;
 }
 @font-face{
-    src: url('../font/NotoMono-Regular.ttf');
+    src: url('https://cdn.jsdelivr.net/gh/cfcx/cfcx@master/p/plugins/simpleClock/static/assets/font/NotoMono-Regular.ttf');
     font-family: NotoMonoRegular;
 }
 @font-face{
-    src: url('../font/tama_mini01.ttf');
+    src: url('https://cdn.jsdelivr.net/gh/cfcx/cfcx@master/p/plugins/simpleClock/static/assets/font/tama_mini01.ttf');
     font-family: tamaMini;
 }
 @font-face{
-    src: url('../font/SharpCardinal.ttf');
+    src: url('https://cdn.jsdelivr.net/gh/cfcx/cfcx@master/p/plugins/simpleClock/static/assets/font/SharpCardinal.ttf');
     font-family: sharpCardinal;
 }
 
